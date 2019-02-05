@@ -5,7 +5,7 @@ import 'package:slowly/pages/drafts_page.dart';
 import 'package:slowly/pages/settings_page.dart';
 import 'package:slowly/pages/write_letter_page.dart';
 import 'package:slowly/custom_icons.dart';
-import 'package:slowly/recently_received_page.dart';
+import 'package:slowly/pages/recently_received_page.dart';
 
 class MainPage extends StatefulWidget{
   @override
